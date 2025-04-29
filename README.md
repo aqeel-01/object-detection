@@ -1,1 +1,1 @@
-# project_fyp_bootcamp
+# mini project on object detection
